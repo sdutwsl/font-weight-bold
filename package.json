@@ -1,0 +1,25 @@
+{
+  "name": "font-weight-bold",
+  "version": "1.0.0",
+  "description": "Set a css variable to set best font-weight in defferent type devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sdutwsl/font-weight-bold.git"
+  },
+  "keywords": [
+    "font",
+    "weight",
+    "css",
+    "variable"
+  ],
+  "author": "sdutwsl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdutwsl/font-weight-bold/issues"
+  },
+  "homepage": "https://github.com/sdutwsl/font-weight-bold#readme"
+}
